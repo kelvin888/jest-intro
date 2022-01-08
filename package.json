@@ -4,7 +4,8 @@
   "description": "testing javascript with jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "prettier-eslint --write **/*.js"
   },
   "keywords": [
     "test",
@@ -16,9 +17,7 @@
   "devDependencies": {
     "eslint": "^8.6.0",
     "eslint-plugin-jest": "^25.3.4",
-    "jest": "^27.4.7"
-  },
-  "dependencies": {
+    "jest": "^27.4.7",
     "prettier-eslint": "^13.0.0"
   }
 }
