@@ -17,5 +17,8 @@
     "eslint": "^8.6.0",
     "eslint-plugin-jest": "^25.3.4",
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "prettier-eslint": "^13.0.0"
   }
 }
