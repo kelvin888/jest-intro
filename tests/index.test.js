@@ -1,5 +1,5 @@
 // index.test.js
-const fizzBuzz = require("./index");
+const fizzBuzz = require("../index");
 
 describe("fizzBuzz()", () => {
   it('returns "FizzBuzz" for multiples of 3 and 5', () => {
