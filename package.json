@@ -1,0 +1,19 @@
+{
+  "name": "jest-intro",
+  "version": "1.0.0",
+  "description": "testing javascript with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test",
+    "jest",
+    "javascript"
+  ],
+  "author": "kelvin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
